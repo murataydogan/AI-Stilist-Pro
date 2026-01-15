@@ -1,0 +1,11 @@
+customtkinter
+opencv-python
+scikit-learn
+numpy
+rembg
+Pillow
+requests
+SpeechRecognition
+pyaudio
+flask
+qrcode

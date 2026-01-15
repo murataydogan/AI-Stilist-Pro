@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+*.spec
+*.json
+*.jpg
+*.png
+*.jpeg
+gelen_fotograflar/
+.idea/
+DijitalGardirop.py
